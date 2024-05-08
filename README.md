@@ -33,6 +33,8 @@ This Telegram bot is designed to interact with users using natural language proc
    TELEGRAM_TOKEN=<your_telegram_token>
    ```
 
+5. Create a folder called `texts` in the same directory and add your training data `bott.txt`
+
 ## Usage
 Run the bot using the following command:
 ```
